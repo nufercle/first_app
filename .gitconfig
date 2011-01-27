@@ -1,0 +1,7 @@
+[user]
+	name = nuria_fernandez
+	email = nufercle@gmail.com
+[alias]
+	co = checkout
+[core]
+	editor = edit -w
